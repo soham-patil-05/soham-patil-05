@@ -1,0 +1,113 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rotate focus and sync badges
+        shell: python
+        run: |
+          from datetime import datetime, timezone
+          import json
+          import re
+          import urllib.request
+
+          readme_path = "README.md"
+          now = datetime.now(timezone.utc)
+
+          focus_pool = [
+              "autonomous recovery loops + terminal-grade product polish ->",
+              "Kafka telemetry, agent guardrails, and deterministic recovery ->",
+              "edge inference pipelines with fewer moving parts ->",
+              "OS-level observability without VM overhead ->",
+              "distributed systems that fail loudly, recover quietly ->",
+              "interfaces that feel alive without wasting motion ->",
+          ]
+
+          focus = focus_pool[now.toordinal() % len(focus_pool)]
+
+          with open(readme_path, "r", encoding="utf-8") as f:
+              text = f.read()
+
+          def replace_block(src, start, end, body):
+              pattern = re.compile(rf"{re.escape(start)}.*?{re.escape(end)}", re.S)
+              return pattern.sub(f"{start}\n{body}\n{end}", src)
+
+          text = replace_block(
+              text,
+              "<!-- FOCUS:START -->",
+              "<!-- FOCUS:END -->",
+              f"`Currently focused on:` {focus}",
+          )
+
+          stamp = now.strftime("%Y--%m--%d_UTC")
+          sync_badge = (
+              f"![last sync](https://img.shields.io/badge/last_sync-{stamp}-39ff14"
+              "?style=for-the-badge&labelColor=0a0a0a)"
+          )
+          text = replace_block(text, "<!-- SYNC:START -->", "<!-- SYNC:END -->", sync_badge)
+
+          solved_label = "600%2B"
+          try:
+              query = {
+                  "query": """
+                  query userProblemsSolved($username: String!) {
+                    matchedUser(username: $username) {
+                      submitStats {
+                        acSubmissionNum {
+                          difficulty
+                          count
+                        }
+                      }
+                    }
+                  }
+                  """,
+                  "variables": {"username": "sompatil2005"},
+              }
+              req = urllib.request.Request(
+                  "https://leetcode.com/graphql/",
+                  data=json.dumps(query).encode("utf-8"),
+                  headers={"Content-Type": "application/json", "User-Agent": "soham-profile-readme-bot"},
+              )
+              with urllib.request.urlopen(req, timeout=12) as response:
+                  payload = json.loads(response.read().decode("utf-8"))
+              counts = payload["data"]["matchedUser"]["submitStats"]["acSubmissionNum"]
+              total = next((item["count"] for item in counts if item["difficulty"] == "All"), None)
+              if total and total >= 600:
+                  solved_label = str(total)
+          except Exception:
+              pass
+
+          dsa_badge = (
+              f"![dsa solved](https://img.shields.io/badge/DSA_SOLVED-{solved_label}-ffb000"
+              "?style=for-the-badge&labelColor=0a0a0a)"
+          )
+          text = replace_block(text, "<!-- DSA:START -->", "<!-- DSA:END -->", dsa_badge)
+
+          with open(readme_path, "w", encoding="utf-8", newline="\n") as f:
+              f.write(text)
+
+      - name: Commit profile refresh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "No profile changes to commit."
+          else
+            git commit -m "[bot] auto-update profile stats"
+            git push
+          fi

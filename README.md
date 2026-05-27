@@ -1,45 +1,241 @@
-<!-- PROFILE_ARTIFACT: ARCADE_RUNTIME / ANIMATED_SVG_ONLY -->
+<!-- SOHAM_OS PROFILE / TERMINAL_RPG_WAR_ROOM -->
 
-<p align="center">
-  <img src="assets/arcade-hero.svg" width="100%" alt="Animated arcade runtime profile for Soham Patil" />
-</p>
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="SOHAM_OS v2.0 terminal boot sequence for Soham Patil" />
+</div>
+
+<div align="center">
+
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=980&lines=SOHAM_OS+v2.0+%E2%80%94+BOOTING...;Building+systems+that+think%2C+heal%2C+and+scale;Kafka+%E2%86%92+AI+Agent+%E2%86%92+Docker+Recovery;Pune%2C+IN+%E2%80%A2+PICT+IT+%E2%80%A2+LeetCode+Knight)
+
+**Building systems that think, heal, and scale — from Pune, IN**
+
+<img src="assets/status-badge.svg" width="360" alt="Accepting missions - open to SDE internships 2025-26" />
+
+**🟢 Open to SDE Internships 2025-26 · limited availability**
+
+<!-- FOCUS:START -->
+`Currently focused on:` autonomous recovery loops + terminal-grade product polish →
+<!-- FOCUS:END -->
+
+<!-- SYNC:START -->
+![last sync](https://img.shields.io/badge/last_sync-2026--05--27_UTC-39ff14?style=for-the-badge&labelColor=0a0a0a)
+<!-- SYNC:END -->
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="56%" valign="top">
-      <img src="assets/tech-loadout.svg" width="100%" alt="Animated technology loadout with orbiting tools and radar graph" />
-    </td>
-    <td width="44%" valign="top">
-      <img src="assets/creative-engine.svg" width="100%" alt="Animated creative engine loop showing idea, prototype, stress, polish, and ship" />
-    </td>
-  </tr>
-</table>
+    <td width="38%" valign="top">
 
-<p align="center">
-  <img src="assets/contact-portals.svg" width="100%" alt="Animated contact portals for GitHub, LinkedIn, LeetCode, and conversation" />
-</p>
+### ⚔️ Battle Anchor
 
-```ts
-const arcade_runtime = {
-  player: "soham-patil-05",
-  mode: "build_first",
-  vibe: ["bright", "restless", "experimental", "systems-minded"],
-  loops: ["imagine", "prototype", "instrument", "break", "tighten", "ship"],
-  tools: {
-    languages: ["TypeScript", "Python", "JavaScript", "C++", "SQL"],
-    interfaces: ["React", "Tailwind", "SVG", "Canvas-minded UI"],
-    systems: ["Node", "FastAPI", "Kafka", "Redis", "Docker", "WebSockets"],
-    data: ["MongoDB", "SQLite", "Supabase", "structured JSON"],
-    automation: ["Playwright", "asyncio", "agents", "edge functions"],
-  },
-  rule: "make it work, make it weird, make it useful",
-} as const;
+```txt
+LEETCODE KNIGHT
+rank signal : top ~3% globally
+max rating  : 1923
+arena state : 600+ DSA solved
 ```
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><a href="https://github.com/soham-patil-05"><code>github://soham-patil-05</code></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/soham-patil-27a9b2287"><code>contact://linkedin</code></a></td>
-    <td align="center"><a href="https://leetcode.com/u/sompatil2005/"><code>arena://leetcode</code></a></td>
+<!-- DSA:START -->
+![dsa solved](https://img.shields.io/badge/DSA_SOLVED-600%2B-ffb000?style=for-the-badge&labelColor=0a0a0a)
+<!-- DSA:END -->
+
+[![leetcode](https://img.shields.io/badge/LeetCode-Knight_1923-ffb000?style=for-the-badge&logo=leetcode&logoColor=0a0a0a&labelColor=0a0a0a)](https://leetcode.com/u/sompatil2005/)
+
+  </td>
+  <td width="62%" valign="top">
+
+### 🧬 Character Sheet
+
+```txt
+╔══════════════════════════════════════════════╗
+║  SOHAM_OS v2.0 — CHARACTER STATS            ║
+╠══════════════════════════════════════════════╣
+║  CLASS    : Systems Architect               ║
+║  LEVEL    : 12                              ║
+║  RANK     : LeetCode Knight [1923]          ║
+║  FACTION  : PICT — B.E. IT [9.142/10]       ║
+║  LOCATION : Pune, Maharashtra, India        ║
+║  STATUS   : ACCEPTING_MISSIONS              ║
+╚══════════════════════════════════════════════╝
+```
+
+  </td>
   </tr>
 </table>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `> skill-tree --scan`
+
+| Stat | Engineering Domain | Charge |
+|---|---:|:---|
+| `DSA` | DSA & Algorithms | `████████████░░ 90%` |
+| `DST` | Distributed Systems | `███████████░░░ 88%` |
+| `BCK` | Backend Engineering | `██████████░░░░ 82%` |
+| `SYS` | Systems Programming | `██████████░░░░ 78%` |
+| `LLM` | AI / LLM Integration | `█████████░░░░░ 72%` |
+| `UIX` | Frontend Engineering | `████████░░░░░░ 65%` |
+
+> Incomplete bars are intentional. The machine is still leveling.
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `> quest-log --featured --curated`
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="33%" valign="top">
+
+### `[LEGENDARY]` AI SRE Engine
+
+**Autonomous Self-Healing Microservices**
+
+Closed-loop recovery system: Kafka telemetry feeds a Gemini ReAct agent that diagnoses failures and triggers Docker remediation.
+
+`+3200 XP` · `MTTR near-zero in simulated chaos`
+
+[![Live](https://img.shields.io/badge/LIVE-self--healing--microservices-39ff14?style=flat-square&labelColor=0a0a0a)](https://self-healing-microservices-ai.vercel.app/)
+![Node](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=39ff14)
+![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=39ff14)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=39ff14)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0a0a0a?style=flat-square&logo=googlegemini&logoColor=39ff14)
+
+  </td>
+  <td width="33%" valign="top">
+
+### `[EPIC]` Reconciliation Core
+
+**TechFiesta Finale Round**
+
+Real-time financial reconciliation over CBS / UPI / gateway streams with double-hash deduplication and encrypted ingestion.
+
+`+2600 XP` · `1 of the selected finale teams in a fintech bracket`
+
+![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=ffb000)
+![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=ffb000)
+![AES](https://img.shields.io/badge/AES--256--GCM-0a0a0a?style=flat-square&logo=letsencrypt&logoColor=ffb000)
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ffb000)
+
+  </td>
+  <td width="33%" valign="top">
+
+### `[EPIC]` LabGuardian
+
+**OS-Level Monitoring Daemon**
+
+Offline-first Python daemon with SQLite buffering, psutil telemetry, async queue backpressure, and WebSocket streaming.
+
+`+2400 XP` · `no VM / no data-loss path`
+
+[![Live](https://img.shields.io/badge/LIVE-labguardian-39ff14?style=flat-square&labelColor=0a0a0a)](https://labguardian.vercel.app/)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=39ff14)
+![SQLite](https://img.shields.io/badge/SQLite-0a0a0a?style=flat-square&logo=sqlite&logoColor=39ff14)
+![WebSockets](https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square&logo=socketdotio&logoColor=39ff14)
+
+  </td>
+  </tr>
+</table>
+
+```txt
+NEXT QUEST UNLOCKING:
+currently building something that should probably not work →
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `> battle-stats --live`
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://leetcard.jacoblin.cool/sompatil2005?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode stats for Soham Patil" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=soham-patil-05&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=c8c8c8&icon_color=ffb000&rank_icon=github" width="100%" alt="GitHub stats for Soham Patil" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=soham-patil-05&hide_border=true&background=0A0A0A&ring=39FF14&fire=FFB000&currStreakLabel=39FF14&sideLabels=C8C8C8&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub streak stats for Soham Patil" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-patil-05&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=c8c8c8" width="100%" alt="Top languages for Soham Patil" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=soham-patil-05&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophy matrix" />
+
+### `battle-map.contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake battle map" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-patil-05&bg_color=0a0a0a&color=c8c8c8&line=39ff14&point=ffb000&area=true&hide_border=true&custom_title=Contribution%20Battle%20Map" width="100%" alt="GitHub activity battle map" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `> currently-equipped --inventory`
+
+<div align="center">
+
+### Core Languages
+![languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,mysql&theme=dark)
+
+### Backend / Infra
+![backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,docker,githubactions,vercel&theme=dark)
+
+### Distributed Systems / Data
+![systems](https://skillicons.dev/icons?i=kafka,redis,mongodb,sqlite,supabase&theme=dark)
+
+### AI & APIs / Frontend
+![ai frontend](https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark)
+
+![Gemini](https://img.shields.io/badge/Gemini_Text_%2B_Vision-0a0a0a?style=for-the-badge&logo=googlegemini&logoColor=39ff14&labelColor=0a0a0a)
+![ReAct](https://img.shields.io/badge/ReAct_Agent_Pattern-0a0a0a?style=for-the-badge&logo=probot&logoColor=ffb000&labelColor=0a0a0a)
+![Supabase Edge](https://img.shields.io/badge/Supabase_Edge_Functions-0a0a0a?style=for-the-badge&logo=supabase&logoColor=39ff14&labelColor=0a0a0a)
+
+</div>
+
+```txt
+CERTIFICATIONS EQUIPPED
+├─ Full Stack Development — Cohort 2.0, Harkirat Singh [2024]
+└─ Mastering DSA using C++ — Striver / takeUforward [2025]
+```
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## `> soham --contact`
+
+```txt
+email    : sompatil2005@gmail.com
+linkedin : /in/soham-patil-27a9b2287
+github   : /soham-patil-05
+leetcode : /u/sompatil2005
+status   : ACCEPTING_MISSIONS
+```
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/email-sompatil2005%40gmail.com-39ff14?style=for-the-badge&logo=gmail&logoColor=39ff14&labelColor=0a0a0a)](mailto:sompatil2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-connect-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=0a0a0a)](https://www.linkedin.com/in/soham-patil-27a9b2287)
+[![GitHub](https://img.shields.io/badge/github-soham--patil--05-0a0a0a?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=0a0a0a)](https://github.com/soham-patil-05)
+
+![visitors](https://komarev.com/ghpvc/?username=soham-patil-05&label=VISITORS&color=39ff14&style=for-the-badge)
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+```txt
+SYSTEM MESSAGE:
+If this page moved, blinked, teased, and made you scroll twice,
+the profile did its job.
+```

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 92" role="img" aria-labelledby="title desc">
+  <title id="title">Accepting missions status badge</title>
+  <desc id="desc">Animated terminal badge for open SDE internships 2025-26 with a pulsing green dot.</desc>
+  <defs>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
+      @keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+      @keyframes dash { to { stroke-dashoffset: -80; } }
+      .blink { animation: blink 1.1s steps(1,end) infinite; }
+      .dash { stroke-dasharray: 12 8; animation: dash 2.6s linear infinite; }
+    </style>
+  </defs>
+  <rect width="720" height="92" rx="0" fill="#0a0a0a"/>
+  <rect x="5" y="5" width="710" height="82" fill="none" stroke="#39ff14" stroke-width="4"/>
+  <line x1="18" y1="72" x2="702" y2="72" stroke="#ffb000" stroke-width="3" class="dash"/>
+  <circle cx="52" cy="38" r="13" fill="#39ff14" class="blink"/>
+  <text x="84" y="38" class="mono" font-size="22" font-weight="900" fill="#39ff14">ACCEPTING MISSIONS</text>
+  <text x="84" y="62" class="mono" font-size="14" font-weight="800" fill="#c8c8c8">SDE INTERNSHIPS 2025-26 // LIMITED AVAILABILITY</text>
+  <text x="608" y="43" class="mono" font-size="18" font-weight="900" fill="#ffb000">ONLINE</text>
+</svg>
