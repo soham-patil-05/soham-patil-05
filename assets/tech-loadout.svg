@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 760" role="img" aria-labelledby="title desc">
+  <title id="title">Animated technology loadout</title>
+  <desc id="desc">A gaming style loadout panel with animated radar, orbiting tokens, and categorized technologies.</desc>
+  <defs>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
+      .heavy { font-family: "Arial Black", Impact, system-ui, sans-serif; }
+      @keyframes spin { to { transform: rotate(360deg); } }
+      @keyframes reverseSpin { to { transform: rotate(-360deg); } }
+      @keyframes dash { to { stroke-dashoffset: -150; } }
+      @keyframes glow { 0%,100% { opacity:.55; } 50% { opacity:1; } }
+      @keyframes fillbar { 0% { transform: scaleX(.18); } 50% { transform: scaleX(1); } 100% { transform: scaleX(.72); } }
+      .spin { transform-origin: 380px 348px; animation: spin 18s linear infinite; }
+      .rev { transform-origin: 380px 348px; animation: reverseSpin 24s linear infinite; }
+      .dash { stroke-dasharray: 18 10; animation: dash 3.4s linear infinite; }
+      .glow { animation: glow 1.4s ease-in-out infinite; }
+      .fill { transform-box: fill-box; transform-origin: left center; animation: fillbar 4s ease-in-out infinite; }
+    </style>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="3" r="2" fill="#050505" opacity=".2"/>
+    </pattern>
+  </defs>
+
+  <rect width="760" height="760" fill="#00e5ff"/>
+  <rect width="760" height="760" fill="url(#dots)"/>
+  <path d="M0 0H760V118L0 210Z" fill="#fbff00"/>
+  <path d="M760 760H330L760 518Z" fill="#ff2bd6"/>
+  <rect x="28" y="28" width="704" height="704" fill="none" stroke="#050505" stroke-width="6"/>
+
+  <text x="52" y="82" class="heavy" font-size="44" fill="#050505">TECH LOADOUT</text>
+  <text x="54" y="116" class="mono" font-size="16" font-weight="900" fill="#050505">tools are inventory, taste is the actual weapon</text>
+
+  <g>
+    <circle cx="380" cy="348" r="164" fill="#050505" stroke="#ffffff" stroke-width="6"/>
+    <circle cx="380" cy="348" r="124" fill="none" stroke="#fbff00" stroke-width="3" class="dash"/>
+    <circle cx="380" cy="348" r="82" fill="none" stroke="#ff2bd6" stroke-width="3" class="dash"/>
+    <path d="M380 206L500 304L474 470L300 484L242 316Z" fill="#1cff62" opacity=".82" stroke="#ffffff" stroke-width="4"/>
+    <path d="M380 348L380 206M380 348L500 304M380 348L474 470M380 348L300 484M380 348L242 316" stroke="#ffffff" stroke-width="2" opacity=".72"/>
+    <text x="380" y="340" text-anchor="middle" class="mono" font-size="18" font-weight="900" fill="#ffffff">BUILD</text>
+    <text x="380" y="370" text-anchor="middle" class="mono" font-size="18" font-weight="900" fill="#fbff00">RANGE</text>
+  </g>
+
+  <g class="spin">
+    <g transform="translate(380 156)"><rect x="-42" y="-16" width="84" height="32" fill="#ff2bd6" stroke="#050505" stroke-width="4"/><text x="0" y="6" text-anchor="middle" class="mono" font-size="13" font-weight="900" fill="#050505">React</text></g>
+    <g transform="translate(572 348)"><rect x="-42" y="-16" width="84" height="32" fill="#fbff00" stroke="#050505" stroke-width="4"/><text x="0" y="6" text-anchor="middle" class="mono" font-size="13" font-weight="900" fill="#050505">Python</text></g>
+    <g transform="translate(380 540)"><rect x="-42" y="-16" width="84" height="32" fill="#00e5ff" stroke="#050505" stroke-width="4"/><text x="0" y="6" text-anchor="middle" class="mono" font-size="13" font-weight="900" fill="#050505">Kafka</text></g>
+    <g transform="translate(188 348)"><rect x="-42" y="-16" width="84" height="32" fill="#1cff62" stroke="#050505" stroke-width="4"/><text x="0" y="6" text-anchor="middle" class="mono" font-size="13" font-weight="900" fill="#050505">Docker</text></g>
+  </g>
+
+  <g class="rev">
+    <circle cx="506" cy="222" r="13" fill="#fbff00" stroke="#050505" stroke-width="4"/>
+    <circle cx="506" cy="474" r="13" fill="#ff2bd6" stroke="#050505" stroke-width="4"/>
+    <circle cx="254" cy="474" r="13" fill="#ffffff" stroke="#050505" stroke-width="4"/>
+    <circle cx="254" cy="222" r="13" fill="#1cff62" stroke="#050505" stroke-width="4"/>
+  </g>
+
+  <g class="mono" font-weight="900" font-size="15">
+    <g transform="translate(54 596)">
+      <rect width="300" height="34" fill="#050505"/><rect width="236" height="34" fill="#fbff00" class="fill"/>
+      <text x="14" y="23" fill="#ffffff">interfaces: React / SVG / Tailwind</text>
+    </g>
+    <g transform="translate(54 644)">
+      <rect width="300" height="34" fill="#050505"/><rect width="264" height="34" fill="#ff2bd6" class="fill"/>
+      <text x="14" y="23" fill="#ffffff">systems: Node / FastAPI / Redis</text>
+    </g>
+    <g transform="translate(406 596)">
+      <rect width="300" height="34" fill="#050505"/><rect width="218" height="34" fill="#1cff62" class="fill"/>
+      <text x="14" y="23" fill="#ffffff">data: Mongo / SQLite / Supabase</text>
+    </g>
+    <g transform="translate(406 644)">
+      <rect width="300" height="34" fill="#050505"/><rect width="250" height="34" fill="#00e5ff" class="fill"/>
+      <text x="14" y="23" fill="#ffffff">automation: Playwright / agents</text>
+    </g>
+  </g>
+
+  <circle cx="686" cy="80" r="14" fill="#1cff62" class="glow"/>
+</svg>

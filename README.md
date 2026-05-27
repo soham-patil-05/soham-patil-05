@@ -1,53 +1,45 @@
-<!-- PROFILE_ARTIFACT: VOLTAGE_INDEX / NO_TEMPLATE_DNA -->
+<!-- PROFILE_ARTIFACT: ARCADE_RUNTIME / ANIMATED_SVG_ONLY -->
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Soham Patil profile artifact: bright retro-futuristic build console" />
+  <img src="assets/arcade-hero.svg" width="100%" alt="Animated arcade runtime profile for Soham Patil" />
 </p>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="63%" valign="top">
-      <img src="assets/system-map.svg" width="100%" alt="System pressure map with architecture proof nodes" />
+    <td width="56%" valign="top">
+      <img src="assets/tech-loadout.svg" width="100%" alt="Animated technology loadout with orbiting tools and radar graph" />
     </td>
-    <td width="37%" valign="top">
-      <img src="assets/metrics.svg" width="100%" alt="Contest signal and engineering metrics console" />
+    <td width="44%" valign="top">
+      <img src="assets/creative-engine.svg" width="100%" alt="Animated creative engine loop showing idea, prototype, stress, polish, and ship" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/proof-grid.svg" width="100%" alt="Proof grid for reconciliation, telemetry daemons, team platforms, and edge vision systems" />
+  <img src="assets/contact-portals.svg" width="100%" alt="Animated contact portals for GitHub, LinkedIn, LeetCode, and conversation" />
 </p>
 
 ```ts
-const shipped_under_pressure = [
-  {
-    surface: "financial reconciliation",
-    invariant: "3 event streams collapse into 1 deterministic ledger",
-    machinery: ["Kafka", "Redis pub/sub", "AES-256-GCM", "UTR x RRN hash", "plug-in comparators"],
+const arcade_runtime = {
+  player: "soham-patil-05",
+  mode: "build_first",
+  vibe: ["bright", "restless", "experimental", "systems-minded"],
+  loops: ["imagine", "prototype", "instrument", "break", "tighten", "ship"],
+  tools: {
+    languages: ["TypeScript", "Python", "JavaScript", "C++", "SQL"],
+    interfaces: ["React", "Tailwind", "SVG", "Canvas-minded UI"],
+    systems: ["Node", "FastAPI", "Kafka", "Redis", "Docker", "WebSockets"],
+    data: ["MongoDB", "SQLite", "Supabase", "structured JSON"],
+    automation: ["Playwright", "asyncio", "agents", "edge functions"],
   },
-  {
-    surface: "OS telemetry daemon",
-    invariant: "capture survives network drops without privileged access",
-    machinery: ["psutil", "asyncio.Queue(4096)", "SQLite buffer", "WebSocket drain"],
-  },
-  {
-    surface: "hackathon team platform",
-    invariant: "scraped discovery, indexed search, realtime rooms, auth boundaries",
-    machinery: ["Playwright", "ThreadPoolExecutor", "Mongo text index", "Socket.IO", "JWT"],
-  },
-  {
-    surface: "edge vision pipeline",
-    invariant: "inference runs through edge functions without blob storage",
-    machinery: ["Supabase", "Gemini Vision", "client downscale", "structured JSON"],
-  },
-] as const;
+  rule: "make it work, make it weird, make it useful",
+} as const;
 ```
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><a href="https://github.com/soham-patil-05"><code>github://soham-patil-05</code></a></td>
-    <td align="center"><a href="https://leetcode.com/u/sompatil2005/"><code>leetcode://knight-1923</code></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/soham-patil-27a9b2287"><code>signal://linkedin</code></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soham-patil-27a9b2287"><code>contact://linkedin</code></a></td>
+    <td align="center"><a href="https://leetcode.com/u/sompatil2005/"><code>arena://leetcode</code></a></td>
   </tr>
 </table>
