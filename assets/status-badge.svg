@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 92" role="img" aria-labelledby="title desc">
-  <title id="title">Accepting missions status badge</title>
-  <desc id="desc">Animated terminal badge for open SDE internships 2025-26 with a pulsing green dot.</desc>
+  <title id="title">Soham Patil — Software Developer</title>
+  <desc id="desc">Animated terminal badge for Soham Patil, software developer from Pune, India.</desc>
   <defs>
     <style>
       .mono { font-family: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
@@ -14,7 +14,7 @@
   <rect x="5" y="5" width="710" height="82" fill="none" stroke="#39ff14" stroke-width="4"/>
   <line x1="18" y1="72" x2="702" y2="72" stroke="#ffb000" stroke-width="3" class="dash"/>
   <circle cx="52" cy="38" r="13" fill="#39ff14" class="blink"/>
-  <text x="84" y="38" class="mono" font-size="22" font-weight="900" fill="#39ff14">ACCEPTING MISSIONS</text>
-  <text x="84" y="62" class="mono" font-size="14" font-weight="800" fill="#c8c8c8">SDE INTERNSHIPS 2025-26 // LIMITED AVAILABILITY</text>
+  <text x="84" y="38" class="mono" font-size="22" font-weight="900" fill="#39ff14">SOFTWARE DEVELOPER</text>
+  <text x="84" y="62" class="mono" font-size="14" font-weight="800" fill="#c8c8c8">Soham Patil · Pune, IN</text>
   <text x="608" y="43" class="mono" font-size="18" font-weight="900" fill="#ffb000">ONLINE</text>
 </svg>

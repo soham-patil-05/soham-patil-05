@@ -6,16 +6,14 @@
 
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=980&lines=SOHAM_OS+v2.0+%E2%80%94+BOOTING...;Building+systems+that+think%2C+heal%2C+and+scale;Kafka+%E2%86%92+AI+Agent+%E2%86%92+Docker+Recovery;Pune%2C+IN+%E2%80%A2+PICT+IT+%E2%80%A2+LeetCode+Knight)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=980&lines=Soham+Patil+%E2%80%94+Software+Developer;Building+systems+that+think%2C+heal%2C+and+scale;Kafka+%E2%86%92+AI+Agents+%E2%86%92+Distributed+Systems;Pune%2C+IN+%E2%80%A2+PICT+IT+%E2%80%A2+LeetCode+Knight+%5B1923%5D)
 
-**Building systems that think, heal, and scale — from Pune, IN**
+**Software Developer — building systems that think, heal, and scale.**
 
-<img src="assets/status-badge.svg" width="360" alt="Accepting missions - open to SDE internships 2025-26" />
-
-**🟢 Open to SDE Internships 2025-26 · limited availability**
+<img src="assets/status-badge.svg" width="360" alt="Soham Patil — Software Developer from Pune, IN" />
 
 <!-- FOCUS:START -->
-`Currently focused on:` autonomous recovery loops + terminal-grade product polish →
+`Currently building:` autonomous recovery loops and terminal-grade product polish →
 <!-- FOCUS:END -->
 
 <!-- SYNC:START -->
@@ -30,7 +28,7 @@
   <tr>
     <td width="38%" valign="top">
 
-### ⚔️ Battle Anchor
+### 📊 Competitive Programming
 
 ```txt
 LEETCODE KNIGHT
@@ -48,18 +46,19 @@ arena state : 600+ DSA solved
   </td>
   <td width="62%" valign="top">
 
-### 🧬 Character Sheet
+### 👤 About
 
 ```txt
 ╔══════════════════════════════════════════════╗
-║  SOHAM_OS v2.0 — CHARACTER STATS            ║
+║  SOHAM PATIL — SOFTWARE DEVELOPER           ║
 ╠══════════════════════════════════════════════╣
-║  CLASS    : Systems Architect               ║
-║  LEVEL    : 12                              ║
+║  ROLE     : Backend & Distributed Systems   ║
+║  STUDY    : B.E. IT — PICT [CGPA 9.142/10]  ║
 ║  RANK     : LeetCode Knight [1923]          ║
-║  FACTION  : PICT — B.E. IT [9.142/10]       ║
+║  SOLVED   : 600+ DSA problems               ║
 ║  LOCATION : Pune, Maharashtra, India        ║
-║  STATUS   : ACCEPTING_MISSIONS              ║
+║  BUILDING : systems that fail loudly,       ║
+║             recover quietly                 ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -69,7 +68,7 @@ arena state : 600+ DSA solved
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> skill-tree --scan`
+## `> skills --overview`
 
 | Stat | Engineering Domain | Charge |
 |---|---:|:---|
@@ -80,23 +79,23 @@ arena state : 600+ DSA solved
 | `LLM` | AI / LLM Integration | `█████████░░░░░ 72%` |
 | `UIX` | Frontend Engineering | `████████░░░░░░ 65%` |
 
-> Incomplete bars are intentional. The machine is still leveling.
+> Bars reflect honest self-assessment. Always a work in progress.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> quest-log --featured --curated`
+## `> projects --featured`
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="33%" valign="top">
 
-### `[LEGENDARY]` AI SRE Engine
+### `[SRE / AI]` AI SRE Engine
 
 **Autonomous Self-Healing Microservices**
 
 Closed-loop recovery system: Kafka telemetry feeds a Gemini ReAct agent that diagnoses failures and triggers Docker remediation.
 
-`+3200 XP` · `MTTR near-zero in simulated chaos`
+`Distributed Systems` · `MTTR near-zero in simulated chaos`
 
 [![Live](https://img.shields.io/badge/LIVE-self--healing--microservices-39ff14?style=flat-square&labelColor=0a0a0a)](https://self-healing-microservices-ai.vercel.app/)
 ![Node](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=39ff14)
@@ -107,13 +106,13 @@ Closed-loop recovery system: Kafka telemetry feeds a Gemini ReAct agent that dia
   </td>
   <td width="33%" valign="top">
 
-### `[EPIC]` Reconciliation Core
+### `[Fintech / Kafka]` Reconciliation Core
 
 **TechFiesta Finale Round**
 
 Real-time financial reconciliation over CBS / UPI / gateway streams with double-hash deduplication and encrypted ingestion.
 
-`+2600 XP` · `1 of the selected finale teams in a fintech bracket`
+`TechFiesta Finalist` · `Selected for finale round — fintech track`
 
 ![Kafka](https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=ffb000)
 ![Redis](https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=ffb000)
@@ -123,13 +122,13 @@ Real-time financial reconciliation over CBS / UPI / gateway streams with double-
   </td>
   <td width="33%" valign="top">
 
-### `[EPIC]` LabGuardian
+### `[Systems / Python]` LabGuardian
 
 **OS-Level Monitoring Daemon**
 
 Offline-first Python daemon with SQLite buffering, psutil telemetry, async queue backpressure, and WebSocket streaming.
 
-`+2400 XP` · `no VM / no data-loss path`
+`Systems Programming` · `no VM overhead / no data-loss path`
 
 [![Live](https://img.shields.io/badge/LIVE-labguardian-39ff14?style=flat-square&labelColor=0a0a0a)](https://labguardian.vercel.app/)
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=39ff14)
@@ -141,13 +140,13 @@ Offline-first Python daemon with SQLite buffering, psutil telemetry, async queue
 </table>
 
 ```txt
-NEXT QUEST UNLOCKING:
-currently building something that should probably not work →
+NEXT PROJECT:
+working on something that probably shouldn't work →
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> battle-stats --live`
+## `> stats --live`
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -170,7 +169,7 @@ currently building something that should probably not work →
 
 <img src="https://github-profile-trophy.vercel.app/?username=soham-patil-05&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophy matrix" />
 
-### `battle-map.contributions`
+### `contributions`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg">
@@ -182,7 +181,7 @@ currently building something that should probably not work →
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> currently-equipped --inventory`
+## `> tech-stack`
 
 <div align="center">
 
@@ -212,14 +211,14 @@ CERTIFICATIONS EQUIPPED
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## `> soham --contact`
+## `> contact`
 
 ```txt
 email    : sompatil2005@gmail.com
 linkedin : /in/soham-patil-27a9b2287
 github   : /soham-patil-05
 leetcode : /u/sompatil2005
-status   : ACCEPTING_MISSIONS
+status   : building in public
 ```
 
 <div align="center">
@@ -235,7 +234,7 @@ status   : ACCEPTING_MISSIONS
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ```txt
-SYSTEM MESSAGE:
-If this page moved, blinked, teased, and made you scroll twice,
-the profile did its job.
+NOTE:
+If this page made you curious enough to scroll to the bottom,
+feel free to reach out.
 ```

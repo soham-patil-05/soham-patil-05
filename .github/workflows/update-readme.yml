@@ -29,11 +29,11 @@ jobs:
           now = datetime.now(timezone.utc)
 
           focus_pool = [
-              "autonomous recovery loops + terminal-grade product polish ->",
-              "Kafka telemetry, agent guardrails, and deterministic recovery ->",
-              "edge inference pipelines with fewer moving parts ->",
+              "autonomous recovery loops and terminal-grade product polish ->",
+              "Kafka telemetry pipelines and deterministic agent recovery ->",
+              "edge inference with fewer moving parts ->",
               "OS-level observability without VM overhead ->",
-              "distributed systems that fail loudly, recover quietly ->",
+              "distributed systems that fail loudly and recover quietly ->",
               "interfaces that feel alive without wasting motion ->",
           ]
 
