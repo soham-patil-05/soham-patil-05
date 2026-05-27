@@ -120,6 +120,7 @@ working on something that probably shouldn't work →
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
+
 ## `> tech-stack`
 
 <div align="center">
