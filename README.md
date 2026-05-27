@@ -6,19 +6,9 @@
 
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=980&lines=Soham+Patil+%E2%80%94+Software+Developer;Building+systems+that+think%2C+heal%2C+and+scale;Kafka+%E2%86%92+AI+Agents+%E2%86%92+Distributed+Systems;Pune%2C+IN+%E2%80%A2+PICT+IT+%E2%80%A2+LeetCode+Knight+%5B1923%5D)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2300&pause=600&color=39FF14&center=true&vCenter=true&width=980&lines=Soham+Patil+%E2%80%94+Software+Developer;Kafka+%E2%86%92+AI+Agents+%E2%86%92+Distributed+Systems;Pune%2C+IN+%E2%80%A2+PICT+IT+%E2%80%A2+LeetCode+Knight+%5B1923%5D)
 
-**Software Developer — building systems that think, heal, and scale.**
 
-<img src="assets/status-badge.svg" width="360" alt="Soham Patil — Software Developer from Pune, IN" />
-
-<!-- FOCUS:START -->
-`Currently building:` autonomous recovery loops and terminal-grade product polish →
-<!-- FOCUS:END -->
-
-<!-- SYNC:START -->
-![last sync](https://img.shields.io/badge/last_sync-2026--05--27_UTC-39ff14?style=for-the-badge&labelColor=0a0a0a)
-<!-- SYNC:END -->
 
 </div>
 
@@ -26,24 +16,6 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="38%" valign="top">
-
-### 📊 Competitive Programming
-
-```txt
-LEETCODE KNIGHT
-rank signal : top ~3% globally
-max rating  : 1923
-arena state : 600+ DSA solved
-```
-
-<!-- DSA:START -->
-![dsa solved](https://img.shields.io/badge/DSA_SOLVED-600%2B-ffb000?style=for-the-badge&labelColor=0a0a0a)
-<!-- DSA:END -->
-
-[![leetcode](https://img.shields.io/badge/LeetCode-Knight_1923-ffb000?style=for-the-badge&logo=leetcode&logoColor=0a0a0a&labelColor=0a0a0a)](https://leetcode.com/u/sompatil2005/)
-
-  </td>
   <td width="62%" valign="top">
 
 ### 👤 About
@@ -63,23 +35,26 @@ arena state : 600+ DSA solved
 ```
 
   </td>
+  <td width="38%" valign="top">
+
+### 📊 Competitive Programming
+
+```txt
+LEETCODE KNIGHT
+rank signal : top ~3% globally
+max rating  : 1923
+arena state : 600+ DSA solved
+```
+
+<!-- DSA:START -->
+![dsa solved](https://img.shields.io/badge/DSA_SOLVED-600%2B-ffb000?style=for-the-badge&labelColor=0a0a0a)
+<!-- DSA:END -->
+
+[![leetcode](https://img.shields.io/badge/LeetCode-Knight_1923-ffb000?style=for-the-badge&logo=leetcode&logoColor=0a0a0a&labelColor=0a0a0a)](https://leetcode.com/u/sompatil2005/)
+
+  </td>
   </tr>
 </table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
-## `> skills --overview`
-
-| Stat | Engineering Domain | Charge |
-|---|---:|:---|
-| `DSA` | DSA & Algorithms | `████████████░░ 90%` |
-| `DST` | Distributed Systems | `███████████░░░ 88%` |
-| `BCK` | Backend Engineering | `██████████░░░░ 82%` |
-| `SYS` | Systems Programming | `██████████░░░░ 78%` |
-| `LLM` | AI / LLM Integration | `█████████░░░░░ 72%` |
-| `UIX` | Frontend Engineering | `████████░░░░░░ 65%` |
-
-> Bars reflect honest self-assessment. Always a work in progress.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -145,42 +120,6 @@ working on something that probably shouldn't work →
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
-
-## `> stats --live`
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://leetcard.jacoblin.cool/sompatil2005?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="100%" alt="LeetCode stats for Soham Patil" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=soham-patil-05&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=c8c8c8&icon_color=ffb000&rank_icon=github" width="100%" alt="GitHub stats for Soham Patil" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=soham-patil-05&hide_border=true&background=0A0A0A&ring=39FF14&fire=FFB000&currStreakLabel=39FF14&sideLabels=C8C8C8&dates=777777&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" alt="GitHub streak stats for Soham Patil" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soham-patil-05&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=c8c8c8" width="100%" alt="Top languages for Soham Patil" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=soham-patil-05&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophy matrix" />
-
-### `contributions`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake battle map" />
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-patil-05&bg_color=0a0a0a&color=c8c8c8&line=39ff14&point=ffb000&area=true&hide_border=true&custom_title=Contribution%20Battle%20Map" width="100%" alt="GitHub activity battle map" />
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## `> tech-stack`
 
 <div align="center">
@@ -210,6 +149,21 @@ CERTIFICATIONS EQUIPPED
 ```
 
 <img src="assets/divider.svg" width="100%" alt="" />
+
+## `> stats --live`
+
+### `contributions`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/soham-patil-05/soham-patil-05/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake battle map" />
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soham-patil-05&bg_color=0a0a0a&color=c8c8c8&line=39ff14&point=ffb000&area=true&hide_border=true&custom_title=Contribution%20Battle%20Map" width="100%" alt="GitHub activity battle map" />
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
 
 ## `> contact`
 
