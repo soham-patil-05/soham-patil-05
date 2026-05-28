@@ -47,7 +47,7 @@ arena state : 600+ DSA solved
 ```
 
 <!-- DSA:START -->
-![dsa solved](https://img.shields.io/badge/DSA_SOLVED-600%2B-ffb000?style=for-the-badge&labelColor=0a0a0a)
+![dsa solved](https://img.shields.io/badge/DSA_SOLVED-604-ffb000?style=for-the-badge&labelColor=0a0a0a)
 <!-- DSA:END -->
 
 [![leetcode](https://img.shields.io/badge/LeetCode-Knight_1923-ffb000?style=for-the-badge&logo=leetcode&logoColor=0a0a0a&labelColor=0a0a0a)](https://leetcode.com/u/sompatil2005/)
