@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Soham Patil — Software Developer</title>
+  <desc id="desc">Header banner for Soham Patil, software developer.</desc>
+  <defs>
+    <style>
+      .mono { font-family: "JetBrains Mono", "Cascadia Code", "SFMono-Regular", Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="220" fill="#0a0a0a"/>
+  <rect x="18" y="18" width="1164" height="184" fill="none" stroke="#39ff14" stroke-width="2" opacity=".7"/>
+
+  <text x="48" y="110" class="mono" font-size="48" font-weight="800" fill="#39ff14">SOHAM PATIL</text>
+  <text x="48" y="150" class="mono" font-size="20" font-weight="700" fill="#c8c8c8">Software Developer</text>
+</svg>
