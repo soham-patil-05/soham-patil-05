@@ -4,29 +4,28 @@
 
 ## About
 
-I'm always learning, trying to improve a little every day, and working on solving real-world problems through code. I'm currently pursuing a B.E. in Information Technology.
+I like building software, solving challenging problems, and learning something new  continuously. Currently pursuing a B.E. in Information Technology
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Skills
 
 **Languages:** C++, Java, Python, JavaScript
-
-**Web Development:** Node.js, Express.js, React.js, RESTful APIs, Socket.IO, Tailwind CSS, Vite
-
+**Web Development:** Node.js, Express.js, React.js, RESTful APIs, Socket.IO, WebSockets, Tailwind CSS, Vite
+**Frontend & State Management:** React 19, Zustand, Tkinter
 **Databases:** MySQL, MongoDB, PostgreSQL, SQLite
-
 **Tools & Platforms:** Git, GitHub, Docker, Docker Compose, VS Code, PyCharm
-
+**APIs & Integrations:** Anthropic Claude API, Google OAuth, asyncio
 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems
+
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
 ## Achievements
 
-- Solved 600+ data structures and algorithms problems across LeetCode and GeeksforGeeks, covering arrays, graphs, dynamic programming, and system design.
-- Completed **Full Stack Development: Cohort 2.0** — Web Development Bootcamp by Harkirat Singh (2024).
-- Completed **Algorithm Mastery: Mastering Data Structures and Algorithms using C++** by Striver (2025).
+- Solved overall 800+ data structures and algorithms problems across LeetCode ,GeeksforGeeks and Codeforces covering arrays, graphs, dynamic programming, and system design.
+- Knight on Leetcode.
+- 3 stars on Codechef.
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
